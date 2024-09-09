@@ -1,0 +1,12 @@
+{
+  "userId": 100,
+  "userEmail": "test@test.com",
+  "userGender": "Male",
+  "address": {
+    "street": "Bugs kingdom",
+    "homeNum": 6,
+    "flatNum": 6,
+    "floor": 2
+  },
+  "balance": 15000
+}
